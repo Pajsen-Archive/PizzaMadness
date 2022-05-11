@@ -1,0 +1,20 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/ghast_tear"
+  },
+  "overrides": [
+{"predicate":{"custom_model_data":1000}, "model": "custom/pizza"},
+{"predicate":{"custom_model_data":2000}, "model": "custom/pizza_blue"},
+{"predicate":{"custom_model_data":3000}, "model": "custom/pizza_cyan"},
+{"predicate":{"custom_model_data":4000}, "model": "custom/pizza_green"},
+{"predicate":{"custom_model_data":5000}, "model": "custom/pizza_orange"},
+{"predicate":{"custom_model_data":6000}, "model": "custom/pizza_red"},
+{"predicate":{"custom_model_data":7000}, "model": "custom/pizza_yellow"},
+{"predicate":{"custom_model_data":8000}, "model": "custom/pizza_purple"},
+{"predicate":{"custom_model_data":9000}, "model": "custom/pizza_pink"},
+{"predicate":{"custom_model_data":10000}, "model": "custom/pizza_grey"},
+{"predicate":{"custom_model_data":11000}, "model": "custom/pizza_darkgrey"},
+{"predicate":{"custom_model_data":12000}, "model": "custom/pizza_darkgreen"}
+  ]
+}
